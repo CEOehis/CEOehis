@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Celestine
 
-[Website](https://CEOehis.github.io/) |
+[Website](https://ekohordan.com) |
 [Twitter](https://twitter.com/CEO_ehis) |
 [Linkedin](https://www.linkedin.com/in/ceoehis)
 
