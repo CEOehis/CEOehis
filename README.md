@@ -21,6 +21,10 @@ I am a full stack JavaScript developer based in Lagos nigeria. I love solving pr
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=CEOehis&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 
+## 🎧Currently Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ds4fjskqnp0nvq2xdjmh0fsw8&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=ds4fjskqnp0nvq2xdjmh0fsw8&redirect=true)
+
 <!--
 **CEOehis/CEOehis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
