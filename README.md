@@ -9,7 +9,7 @@
 I am a full stack JavaScript developer based in Lagos nigeria. I love solving problems with code. I mainly program in JavaScript but I've written some Python, Ruby and Go and I am always learning. I love clean code and well written code and team best practices like CI/CD integrations and testing. At my spare time, I like thinking about what the universe is like and pondering the possibilities of parallel universes.
 
 - 🔭 I’m currently contributing to [Mattermost](https://github.com/mattermost/mattermost-server)
-- 📝 I currently write about CS concepts I'm learning and web programming at [CSLogs](https://cslogs.ekohordan.com/) and [my blog](https://blog.ekohordan.copm)
+- 📝 I currently write about CS concepts I'm learning and web programming at [CSLogs](https://cslogs.ekohordan.com/) and [my blog](https://blog.ekohordan.com)
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything JavaScript
 - 📫 How to reach me: [@CEO_ehis](https://twitter.com/CEO_ehis)
